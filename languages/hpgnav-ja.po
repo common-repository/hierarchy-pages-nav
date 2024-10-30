@@ -1,0 +1,417 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hierarchy Pages Navigation\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-19 09:19+0000\n"
+"PO-Revision-Date: 2023-11-29 07:10+0000\n"
+"Last-Translator: enomoto@celtislab\n"
+"Language-Team: 日本語\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.1\n"
+"X-Domain: hpgnav"
+
+#: hpgnav-setting.php:444
+msgid " (hours)"
+msgstr "（時間）"
+
+#: hpgnav-setting.php:436
+msgid " to skip passwords for password protected pages"
+msgstr " があるユーザーに対し、パスワード保護ページのパスワードをスキップ"
+
+#: hpgnav-search.php:45
+msgid ""
+"* Entering multiple keywords separated by space will result in AND search. "
+"To match a sequence of words or space as a phrase, enclose the search string "
+"in double quotes, such as \"example word\"."
+msgstr ""
+"※ 複数のキーワードをスペースで区切って入力すると、AND検索になります。一連の単語やスペースをフレーズとしてマッチさせるには、検索文字列を "
+"\"example word\" のように二重引用符で囲みます"
+
+#: hpgnav-setting.php:437
+msgid "* Set `read` for all logged in users "
+msgstr "※全てのログインユーザーを対象にする場合は read を指定"
+
+#: hpgnav-setting.php:445
+msgid "* Settings affect password-protected posts site-wide"
+msgstr "※ この設定はパスワードで保護された全ての投稿に影響します"
+
+#: hpgnav-setting.php:505
+msgid "*Specific login users can be excluded by using password-skip option"
+msgstr "※ パスワードスキップオプションを使用すると、特定権限ユーザーの投稿パスワード入力を不要にすることができます"
+
+#: hpgnav-setting.php:593
+msgid "[Important]"
+msgstr "［重要］"
+
+#: hpgnav-setting.php:428
+msgid "all pages"
+msgstr "全てのページ"
+
+#: hpgnav-setting.php:477
+msgid "Apply"
+msgstr "適用"
+
+#: hpgnav-setting.php:554
+msgid "Background"
+msgstr "背景"
+
+#: hpgnav-setting.php:555
+msgid "Border"
+msgstr "ボーダー"
+
+#: hpgnav-setting.php:475
+msgid "Bulk Actions"
+msgstr "一括操作"
+
+#: hpgnav-setting.php:570
+msgid "Buttom"
+msgstr "ボトム"
+
+#: js/hpgnav-admin.js:107 js/hpgnav-admin.js:140 js/hpgnav-admin.js:166
+#: js/hpgnav-admin.js:192
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: hpgnav-setting.php:436
+msgid "Capabilities"
+msgstr "権限"
+
+#: hpgnav-search.php:40
+msgid "Case insensitive (general ci)"
+msgstr "大文字と小文字を区別しない"
+
+#: hpgnav-setting.php:400
+msgid "Clear"
+msgstr "クリア"
+
+#: hpgnav-setting.php:535
+msgid "Click OK to save sorted data to wp posts database."
+msgstr "OK をクリックすると、ソートされたデータが wp posts データベースに保存されます"
+
+#: hpgnav-setting.php:528
+msgid "Close"
+msgstr "閉じる"
+
+#: hpgnav-setting.php:550
+msgid "Color"
+msgstr "文字色"
+
+#: hpgnav-setting.php:425
+msgid "disable"
+msgstr "使用しない"
+
+#: hpgnav-setting.php:526
+msgid ""
+"Discussion - Bulk set status of selected pages to "
+"comments/pingbacks/trackbacks"
+msgstr "ディスカッション - 選択したページのコメント/ピンバック/トラックバックに対して一括設定"
+
+#: hpgnav-setting.php:475 hpgnav-setting.php:524
+msgid "Discussion status"
+msgstr "ディスカッションの状態"
+
+#. Description of the plugin
+msgid ""
+"Document hierarchy pages like a book and provide easy navigation between "
+"pages."
+msgstr "階層ページのドキュメントを本のように構成して、ページ間を簡単に移動できます"
+
+#: hpgnav-utils.php:82
+msgid "draft"
+msgstr "下書き"
+
+#: hpgnav-setting.php:515
+msgid "Draft - Switch to draft"
+msgstr "下書き - 下書きへ切り替え"
+
+#: hpgnav-setting.php:384
+msgid "Enable"
+msgstr "有効"
+
+#. Author of the plugin
+msgid "enomoto@celtislab"
+msgstr ""
+
+#: hpgnav-search.php:39
+msgid "Exact match"
+msgstr "完全一致"
+
+#: hpgnav-utils.php:99
+msgid "future"
+msgstr "公開予約"
+
+#: hpgnav-setting.php:518
+msgid "Future - Switch to future"
+msgstr "公開予約 - 公開予約へ切り替え"
+
+#: hpgnav-search.php:42
+msgid "Fuzzy (unicode ci)"
+msgstr "あいまい検索 (unicode ci)"
+
+#: hpgnav-toc.php:253
+msgid "Go to Page"
+msgstr "ページへ移動"
+
+#: hpgnav-setting.php:412
+msgid "h1"
+msgstr "h1"
+
+#: hpgnav-setting.php:413
+msgid "h1 - h2"
+msgstr "h1 - h2"
+
+#: hpgnav-setting.php:414
+msgid "h1 - h3"
+msgstr "h1 - h3"
+
+#: hpgnav-setting.php:415
+msgid "h1 - h4"
+msgstr "h1 - h4"
+
+#: hpgnav-setting.php:416
+msgid "h1 - h5"
+msgstr "h1 - h5"
+
+#: hpgnav-setting.php:417
+msgid "h1 - h6"
+msgstr "h1 - h6"
+
+#: hpgnav-setting.php:410
+msgid "Heading tags depth"
+msgstr "見出しタグの深さ"
+
+#: hpgnav-setting.php:580
+msgid "Hide navigation on scroll up, show on scroll down."
+msgstr "上にスクロールするとナビゲーションを非表示にし、下にスクロールすると表示する"
+
+#. Name of the plugin
+msgid "Hierarchy Pages Nav"
+msgstr ""
+
+#: hpgnav-setting.php:22 hpgnav-setting.php:372
+msgid "Hierarchy Pages Navigation"
+msgstr "Hierarchy Pages Navigation"
+
+#. URI of the plugin
+msgid "https://celtislab.net/en/wp-plugin-hpgnav/"
+msgstr "https://celtislab.net/wp-plugin-hpgnav/"
+
+#: hpgnav-setting.php:460
+msgid "Introduction of Addon"
+msgstr "アドオンのご紹介"
+
+#: hpgnav-setting.php:563
+msgid "Left"
+msgstr "左"
+
+#: hpgnav-setting.php:391
+msgid "Logo"
+msgstr "ロゴ"
+
+#: hpgnav-setting.php:553
+msgid "Navi icon"
+msgstr "ナビ アイコン"
+
+#: hpgnav-setting.php:383
+msgid "Navigation"
+msgstr "ナビゲーション"
+
+#: hpgnav-setting.php:541
+msgid "Navigation appearance settings"
+msgstr "ナビゲーションの外観設定"
+
+#: hpgnav-setting.php:596
+msgid ""
+"Navigation automatically determines whether it is for editors or above "
+"(public, private) or general (public), depending on the viewing users "
+"permissions."
+msgstr "ナビゲーションは、閲覧ユーザーの権限に応じて、編集者以上（公開、非公開）か一般（公開）の対象ページを自動的に判断します"
+
+#: hpgnav-toc.php:373
+msgid "Next"
+msgstr "Next"
+
+#: hpgnav-search.php:246
+msgid "No result found"
+msgstr "結果が見つかりません"
+
+#: js/hpgnav-admin.js:113 js/hpgnav-admin.js:146 js/hpgnav-admin.js:172
+#: js/hpgnav-admin.js:198
+msgid "O K"
+msgstr "O K"
+
+#: hpgnav-setting.php:529
+msgid "Open"
+msgstr "開く"
+
+#: hpgnav-toc.php:262
+msgid "Page Top"
+msgstr "ページ先頭へ"
+
+#: hpgnav-setting.php:426
+msgid "pages other than public"
+msgstr "公開ページ以外のページ"
+
+#: hpgnav-setting.php:427
+msgid "pages other than top page"
+msgstr "トップページ以外のページ"
+
+#: hpgnav-utils.php:89
+msgid "password"
+msgstr "パスワード"
+
+#: hpgnav-setting.php:502
+msgid "Password protected - Password required to view"
+msgstr "パスワード保護 - 表示するにはパスワードが必要です"
+
+#: hpgnav-utils.php:96
+msgid "pending"
+msgstr "承認待ち"
+
+#: hpgnav-setting.php:516
+msgid "Pending - Switch to pending"
+msgstr "承認待ち - 承認待ちへ切り替え"
+
+#: hpgnav-setting.php:560
+msgid "Position"
+msgstr "位置"
+
+#: hpgnav-setting.php:406
+msgid "Post ID at the root of hierarchy pages"
+msgstr "階層ページのルートに指定するポストID"
+
+#: hpgnav-setting.php:442
+msgid "Post password cookies expiration"
+msgstr "投稿パスワードのクッキーの有効期限"
+
+#: hpgnav-toc.php:370
+msgid "Prev"
+msgstr "Prev"
+
+#: hpgnav-utils.php:93
+msgid "private"
+msgstr "非公開"
+
+#: hpgnav-setting.php:500
+msgid "Private - Visible to admins and editors role"
+msgstr "非公開 - 管理者と編集者のみに表示されます"
+
+#: hpgnav-utils.php:86
+msgid "public"
+msgstr "公開"
+
+#: hpgnav-setting.php:499
+msgid "Public - Visible to everyone"
+msgstr "公開 - すべての人に表示されます"
+
+#: hpgnav-setting.php:475 hpgnav-setting.php:495
+msgid "Publish"
+msgstr "公開状態"
+
+#: hpgnav-setting.php:483
+msgid "Refresh list"
+msgstr "リスト再表示"
+
+#: hpgnav-setting.php:563
+msgid "Right"
+msgstr "右"
+
+#: hpgnav-setting.php:452 hpgnav-setting.php:585
+msgid "Save"
+msgstr "保存"
+
+#: hpgnav-setting.php:579
+msgid "Scroll action"
+msgstr "スクロールアクション"
+
+#: hpgnav-search.php:27 hpgnav-search.php:49 hpgnav-search.php:50
+msgid "Search"
+msgstr "検索"
+
+#: hpgnav-setting.php:423
+msgid "Search engine noindex"
+msgstr "検索エンジン noindex 設定"
+
+#: hpgnav-search.php:37
+msgid "Search Option"
+msgstr "検索オプション"
+
+#: hpgnav-toc.php:103
+msgid "Searching..."
+msgstr "検索中..."
+
+#: hpgnav-setting.php:462
+msgid "See more information "
+msgstr "詳細はこちら"
+
+#: hpgnav-setting.php:399
+msgid "Select"
+msgstr "選択"
+
+#: js/hpgnav-admin.js:218
+msgid "select"
+msgstr "選択"
+
+#: js/hpgnav-admin.js:217
+msgid "Select Logo (suggested size : 48x48 px)"
+msgstr "ロゴ選択（推奨サイズ：48x48 px）"
+
+#: hpgnav-setting.php:484 hpgnav-setting.php:533
+msgid "Sorted list update"
+msgstr "ソート済みリストの更新"
+
+#: hpgnav-toc.php:102
+msgid "Strings containing symbol characters < or > cannot be searched"
+msgstr "記号文字 < または > を含む文字列は検索できません"
+
+#: hpgnav-setting.php:513
+msgid ""
+"Switch to unpublish - Bulk set status of selected pages to "
+"draft/pending/future"
+msgstr "公開停止の切り替え - 選択したページの状態を 下書き / 承認待ち / 公開予約 に一括設定します"
+
+#: hpgnav-setting.php:497
+msgid "Swith to publish - Bulk set publish status of selected pages"
+msgstr "公開状態の切り替え - 選択したページの公開状態を一括設定"
+
+#: hpgnav-setting.php:461
+msgid ""
+"Thank you for using Hierarchy Pages Navigation. We offer addon to manage "
+"multiple hierarchical pages. Please consider using Addon!"
+msgstr ""
+"階層ページナビゲーションをご利用いただきありがとうございます。複数の階層ページを管理できるアドオンをご用意しております。アドオンのご利用をご検討ください！"
+
+#: hpgnav-setting.php:387
+msgid "Title"
+msgstr "タイトル"
+
+#: hpgnav-setting.php:570
+msgid "Top"
+msgstr "トップ"
+
+#: hpgnav-setting.php:475 hpgnav-setting.php:511
+msgid "Unpublish"
+msgstr "公開停止"
+
+#: hpgnav-setting.php:434
+msgid "User capabilities for post password skip"
+msgstr "投稿パスワードをスキップするユーザー権限"
+
+#: hpgnav-setting.php:597
+msgid ""
+"Using css nesting. Please use the latest version of the browser that "
+"supports css nesting."
+msgstr "CSSネスティングを使用しています。CSSネスティングに対応した最新バージョンのブラウザをご利用ください"
+
+#: hpgnav-setting.php:595
+msgid ""
+"When using the page cache, set the cache expiration period within 12 hours "
+"(to support Ajax communication). Also, exclude private and password "
+"protected pages from caching."
+msgstr ""
+"ページキャッシュを使用する場合、キャッシュの有効期限は12時間以内に設定してください（Ajax通信をサポートするため）。また、非公開ページとパスワード保護ページはキャッシュから除外してください"

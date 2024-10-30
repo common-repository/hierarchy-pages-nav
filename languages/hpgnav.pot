@@ -1,0 +1,414 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Hierarchy Pages Nav\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-29 07:07+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.1\n"
+"X-Domain: hpgnav"
+
+#: hpgnav-setting.php:444
+msgid " (hours)"
+msgstr ""
+
+#: hpgnav-setting.php:436
+msgid " to skip passwords for password protected pages"
+msgstr ""
+
+#: hpgnav-search.php:45
+msgid ""
+"* Entering multiple keywords separated by space will result in AND search. "
+"To match a sequence of words or space as a phrase, enclose the search string "
+"in double quotes, such as \"example word\"."
+msgstr ""
+
+#: hpgnav-setting.php:437
+msgid "* Set `read` for all logged in users "
+msgstr ""
+
+#: hpgnav-setting.php:445
+msgid "* Settings affect password-protected posts site-wide"
+msgstr ""
+
+#: hpgnav-setting.php:505
+msgid "*Specific login users can be excluded by using password-skip option"
+msgstr ""
+
+#: hpgnav-setting.php:593
+msgid "[Important]"
+msgstr ""
+
+#: hpgnav-setting.php:428
+msgid "all pages"
+msgstr ""
+
+#: hpgnav-setting.php:477
+msgid "Apply"
+msgstr ""
+
+#: hpgnav-setting.php:554
+msgid "Background"
+msgstr ""
+
+#: hpgnav-setting.php:555
+msgid "Border"
+msgstr ""
+
+#: hpgnav-setting.php:475
+msgid "Bulk Actions"
+msgstr ""
+
+#: hpgnav-setting.php:570
+msgid "Buttom"
+msgstr ""
+
+#: js/hpgnav-admin.js:107 js/hpgnav-admin.js:140 js/hpgnav-admin.js:166
+#: js/hpgnav-admin.js:192
+msgid "Cancel"
+msgstr ""
+
+#: hpgnav-setting.php:436
+msgid "Capabilities"
+msgstr ""
+
+#: hpgnav-search.php:40
+msgid "Case insensitive (general ci)"
+msgstr ""
+
+#: hpgnav-setting.php:400
+msgid "Clear"
+msgstr ""
+
+#: hpgnav-setting.php:535
+msgid "Click OK to save sorted data to wp posts database."
+msgstr ""
+
+#: hpgnav-setting.php:528
+msgid "Close"
+msgstr ""
+
+#: hpgnav-setting.php:550
+msgid "Color"
+msgstr ""
+
+#: hpgnav-setting.php:425
+msgid "disable"
+msgstr ""
+
+#: hpgnav-setting.php:526
+msgid ""
+"Discussion - Bulk set status of selected pages to "
+"comments/pingbacks/trackbacks"
+msgstr ""
+
+#: hpgnav-setting.php:475 hpgnav-setting.php:524
+msgid "Discussion status"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Document hierarchy pages like a book and provide easy navigation between "
+"pages."
+msgstr ""
+
+#: hpgnav-utils.php:82
+msgid "draft"
+msgstr ""
+
+#: hpgnav-setting.php:515
+msgid "Draft - Switch to draft"
+msgstr ""
+
+#: hpgnav-setting.php:384
+msgid "Enable"
+msgstr ""
+
+#. Author of the plugin
+msgid "enomoto@celtislab"
+msgstr ""
+
+#: hpgnav-search.php:39
+msgid "Exact match"
+msgstr ""
+
+#: hpgnav-utils.php:99
+msgid "future"
+msgstr ""
+
+#: hpgnav-setting.php:518
+msgid "Future - Switch to future"
+msgstr ""
+
+#: hpgnav-search.php:42
+msgid "Fuzzy (unicode ci)"
+msgstr ""
+
+#: hpgnav-toc.php:253
+msgid "Go to Page"
+msgstr ""
+
+#: hpgnav-setting.php:412
+msgid "h1"
+msgstr ""
+
+#: hpgnav-setting.php:413
+msgid "h1 - h2"
+msgstr ""
+
+#: hpgnav-setting.php:414
+msgid "h1 - h3"
+msgstr ""
+
+#: hpgnav-setting.php:415
+msgid "h1 - h4"
+msgstr ""
+
+#: hpgnav-setting.php:416
+msgid "h1 - h5"
+msgstr ""
+
+#: hpgnav-setting.php:417
+msgid "h1 - h6"
+msgstr ""
+
+#: hpgnav-setting.php:410
+msgid "Heading tags depth"
+msgstr ""
+
+#: hpgnav-setting.php:580
+msgid "Hide navigation on scroll up, show on scroll down."
+msgstr ""
+
+#. Name of the plugin
+msgid "Hierarchy Pages Nav"
+msgstr ""
+
+#: hpgnav-setting.php:22 hpgnav-setting.php:372
+msgid "Hierarchy Pages Navigation"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://celtislab.net/en/wp-plugin-hpgnav/"
+msgstr ""
+
+#: hpgnav-setting.php:460
+msgid "Introduction of Addon"
+msgstr ""
+
+#: hpgnav-setting.php:563
+msgid "Left"
+msgstr ""
+
+#: hpgnav-setting.php:391
+msgid "Logo"
+msgstr ""
+
+#: hpgnav-setting.php:553
+msgid "Navi icon"
+msgstr ""
+
+#: hpgnav-setting.php:383
+msgid "Navigation"
+msgstr ""
+
+#: hpgnav-setting.php:541
+msgid "Navigation appearance settings"
+msgstr ""
+
+#: hpgnav-setting.php:596
+msgid ""
+"Navigation automatically determines whether it is for editors or above "
+"(public, private) or general (public), depending on the viewing users "
+"permissions."
+msgstr ""
+
+#: hpgnav-toc.php:373
+msgid "Next"
+msgstr ""
+
+#: hpgnav-search.php:246
+msgid "No result found"
+msgstr ""
+
+#: js/hpgnav-admin.js:113 js/hpgnav-admin.js:146 js/hpgnav-admin.js:172
+#: js/hpgnav-admin.js:198
+msgid "O K"
+msgstr ""
+
+#: hpgnav-setting.php:529
+msgid "Open"
+msgstr ""
+
+#: hpgnav-toc.php:262
+msgid "Page Top"
+msgstr ""
+
+#: hpgnav-setting.php:426
+msgid "pages other than public"
+msgstr ""
+
+#: hpgnav-setting.php:427
+msgid "pages other than top page"
+msgstr ""
+
+#: hpgnav-utils.php:89
+msgid "password"
+msgstr ""
+
+#: hpgnav-setting.php:502
+msgid "Password protected - Password required to view"
+msgstr ""
+
+#: hpgnav-utils.php:96
+msgid "pending"
+msgstr ""
+
+#: hpgnav-setting.php:516
+msgid "Pending - Switch to pending"
+msgstr ""
+
+#: hpgnav-setting.php:560
+msgid "Position"
+msgstr ""
+
+#: hpgnav-setting.php:406
+msgid "Post ID at the root of hierarchy pages"
+msgstr ""
+
+#: hpgnav-setting.php:442
+msgid "Post password cookies expiration"
+msgstr ""
+
+#: hpgnav-toc.php:370
+msgid "Prev"
+msgstr ""
+
+#: hpgnav-utils.php:93
+msgid "private"
+msgstr ""
+
+#: hpgnav-setting.php:500
+msgid "Private - Visible to admins and editors role"
+msgstr ""
+
+#: hpgnav-utils.php:86
+msgid "public"
+msgstr ""
+
+#: hpgnav-setting.php:499
+msgid "Public - Visible to everyone"
+msgstr ""
+
+#: hpgnav-setting.php:475 hpgnav-setting.php:495
+msgid "Publish"
+msgstr ""
+
+#: hpgnav-setting.php:483
+msgid "Refresh list"
+msgstr ""
+
+#: hpgnav-setting.php:563
+msgid "Right"
+msgstr ""
+
+#: hpgnav-setting.php:452 hpgnav-setting.php:585
+msgid "Save"
+msgstr ""
+
+#: hpgnav-setting.php:579
+msgid "Scroll action"
+msgstr ""
+
+#: hpgnav-search.php:27 hpgnav-search.php:49 hpgnav-search.php:50
+msgid "Search"
+msgstr ""
+
+#: hpgnav-setting.php:423
+msgid "Search engine noindex"
+msgstr ""
+
+#: hpgnav-search.php:37
+msgid "Search Option"
+msgstr ""
+
+#: hpgnav-toc.php:103
+msgid "Searching..."
+msgstr ""
+
+#: hpgnav-setting.php:462
+msgid "See more information "
+msgstr ""
+
+#: hpgnav-setting.php:399
+msgid "Select"
+msgstr ""
+
+#: js/hpgnav-admin.js:218
+msgid "select"
+msgstr ""
+
+#: js/hpgnav-admin.js:217
+msgid "Select Logo (suggested size : 48x48 px)"
+msgstr ""
+
+#: hpgnav-setting.php:484 hpgnav-setting.php:533
+msgid "Sorted list update"
+msgstr ""
+
+#: hpgnav-toc.php:102
+msgid "Strings containing symbol characters < or > cannot be searched"
+msgstr ""
+
+#: hpgnav-setting.php:513
+msgid ""
+"Switch to unpublish - Bulk set status of selected pages to "
+"draft/pending/future"
+msgstr ""
+
+#: hpgnav-setting.php:497
+msgid "Swith to publish - Bulk set publish status of selected pages"
+msgstr ""
+
+#: hpgnav-setting.php:461
+msgid ""
+"Thank you for using Hierarchy Pages Navigation. We offer addon to manage "
+"multiple hierarchical pages. Please consider using Addon!"
+msgstr ""
+
+#: hpgnav-setting.php:387
+msgid "Title"
+msgstr ""
+
+#: hpgnav-setting.php:570
+msgid "Top"
+msgstr ""
+
+#: hpgnav-setting.php:475 hpgnav-setting.php:511
+msgid "Unpublish"
+msgstr ""
+
+#: hpgnav-setting.php:434
+msgid "User capabilities for post password skip"
+msgstr ""
+
+#: hpgnav-setting.php:597
+msgid ""
+"Using css nesting. Please use the latest version of the browser that "
+"supports css nesting."
+msgstr ""
+
+#: hpgnav-setting.php:595
+msgid ""
+"When using the page cache, set the cache expiration period within 12 hours "
+"(to support Ajax communication). Also, exclude private and password "
+"protected pages from caching."
+msgstr ""
